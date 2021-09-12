@@ -11,9 +11,9 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Rahul Das"
 description              : &description "personal description"
-url                      : https://ravinsk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://rahuldas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ravinsk/ravinsk.github.io"
+repository               : "rahuldas671/rahuldas.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Rahul Das"
-  avatar           : "Less_mb PP_photo.jpg"
+  avatar           : "rahuldas.png"
   bio              : "Master's in Mechanical Engineering at <a href='https://www.iitgn.ac.in/'>IIT Gandhinagar</a>"
   location         : "Water Energetics Lab, AB6/205, IITGN"
   employer         :
