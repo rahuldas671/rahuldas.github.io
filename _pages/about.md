@@ -8,28 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's Student in VLSI and Microelectronics, Department of Electrical Engineering at <a href='http://sites.iitgn.ac.in/labs/nanodc/index.php'> nanoDC Lab</a> Lab, IIT Gandhinagar working under <a href='https://iitgn.ac.in/faculty/ee/fac-nihar'>Prof. Nihar R. Mohapatra</a>. I am currently working in the field of Process Integration of semiconductor devices and doing semiconductor device layouts
+I am a Master's Student in Thermal and Fluid science, Department of Mechanical Engineering at <a href='http://jaichander.people.iitgn.ac.in/wel/'> Water Energetics Lab</a> , IIT Gandhinagar working under <a href='https://iitgn.ac.in/faculty/me/7-jaichander'>Prof. Jaichander Swaminathan</a>. I am currently working in the field of computational study on the multi-effect membrane desalination techonology.
 
 Education
 ======
-* **Master's in VLSI Design,** Electrical Engineering from <a href='https://iitgn.ac.in/'> Indian Institute of Technology, Gandhinagar</a>
-* **Bachelor's in Electronics and Communication Engineering** from <a href='http://www.uietkanpur.com/'> U.I.E.T. C.S.J.M. University, Kanpur, UttarPradesh</a>
+* **Master's in Thermal and Fluid Science ,** Mechanical Engineering from <a href='https://iitgn.ac.in/'> Indian Institute of Technology, Gandhinagar</a>
+* **Bachelor's in Mechanical Engineering** from <a href='https://nimsuniversity.org/'> NIMS University, Jaipur, Rajasthan</a>
 
 Skills
 ======
-* **Tools:** Cadence Virtuoso, Calibre, QuestaSim, Design Compiler, Innovus, Xilinx Vivado, Sentaurus TCAD, Sentaurus 3D TCAD, MATLAB Simulink, 
-* **Programming/Scripting Languages:** Verilog, VHDL, SystemVerilog, SKILL, C, Python, Ocean, Pcell
+* **Tools:** COMSOL Multiphysics, SolidWork, ANSYS FLUENT, MS Office
+* **Programming/Scripting Languages:** MATLAB, LATEX, Arduino, Python
 
 Courses Done
 ======
-* VLSI Design
-* Analog CMOS IC Design
-* Microfabrication
-* Nanoscale Device Engineering
-* Physics of Transistors
-* Physics of 2D Materials
-* Digital Control Systems
-* IC Design Lab
+* Computational Fluid Dynamics
+* Foundation of Fluid Dynamics
+* Energy System
+* Advanced Fluid Dyanamics
+* Combustion
+* Aircraft and Rocket proplustion
+* Mechatronics
+* Ancient Indian Technologies
 * Microelectronics Lab
-* Advanced numerical methods
-* <a href= 'https://nanohub.org/members/287190/courses'> Online Courses </a> 
+* Introduction to Solar Cell
+
